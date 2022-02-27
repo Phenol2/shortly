@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "color": "#419ebb",
+        "pName": "Mercury",
+        "desc": [
+            "Mercury appears to have a solid silicate crust and mantle overlying a solid, iron sulfide outer core layer, a deeper liquid core layer, and a solid inner core. The planet's density is the second highest in the Solar System at 5.427 g/cm3 , only slightly less than Earth's density."
+        ],
+        "properties": ["58.6 DAYS", "87.97 DAYS", 2439.7, 430],
+        "resource": "https://en.wikipedia.org/wiki/Mercury_(planet)"
+      },
+      {
+        "id": 2,
+        "color": "#eda249",
+        "pName": "Venus",
+        "desc": [
+            "The similarity in size and density between Venus and Earth suggests they share a similar internal structure: a core, mantle, and crust. Like that of Earth, Venusian core is most likely at least partially liquid because the two planets have been cooling at about the same rate."
+        ],
+        "properties": ["243 DAYS", "224.7 DAYS", 6051.8, 471],
+        "resource": "https://en.wikipedia.org/wiki/Venus"
+      },
+      {
+        "id": 3,
+        "color": "#6f2ed6",
+        "pName": "Earth",
+        "desc": [
+            "Earth's interior, like that of the other terrestrial planets, is divided into layers by their chemical or physical (rheological) properties. The outer layer is a chemically distinct silicate solid crust, which is underlain by a highly viscous solid mantle."
+        ],
+        "properties": ["0.99 DAYS", "365.26 DAYS", 6371, 16],
+        "resource": "https://en.wikipedia.org/wiki/Earth"
+    
+      },
+      {
+        "id": 4,
+        "color": "#d14c32",
+        "pName": "Mars",
+        "desc": [
+            "Like Earth, Mars has differentiated into a dense metallic core overlaid by less dense materials. Scientists initially determined that the core is at least partially liquid. Current models of its interior imply a core consisting primarily of iron and nickel with about 16–17% sulfur."
+        ],
+        "properties": ["1.03 DAYS", "1.88 YEARS", 3389.5, -28],
+        "resource": "https://en.wikipedia.org/wiki/Mars"
+      },
+      {
+        "id": 5,
+        "color": "#d83a34",
+        "pName": "Jupiter",
+        "desc": [
+          "When the Juno arrived in 2016, it found that Jupiter has a very diffuse core that mixes into its mantle. A possible cause is an impact from a planet of about ten Earth masses a few million years after Jupiter's formation, which would have disrupted an originally solid Jovian core."
+        ],
+        "properties": ["9.93 HOURS", "11.86 YEARS", 69911, -108],
+        "resource": "https://en.wikipedia.org/wiki/Jupiter"
+      },
+      {
+        "id": 6,
+        "color": "#cd5120",
+        "pName": "Saturn",
+        "desc": [
+            "Despite consisting mostly of hydrogen and helium, most of Saturn's mass is not in the gas phase, because hydrogen becomes a non-ideal liquid when the density is above 0.01 g/cm3, which is reached at a radius containing 99.9% of Saturn's mass."
+        ],
+        "properties": ["10.8 HOURS", "29.46 YEARS", 58232, -138],
+        "resource": "https://en.wikipedia.org/wiki/Saturn"
+      },
+      {
+        "id": 7,
+        "color": "#1ec2a4",
+        "pName": "Uranus",
+        "desc": [
+            "The standard model of Uranus's structure is that it consists of three layers: a rocky (silicate/iron–nickel) core in the centre, an icy mantle in the middle and an outer gaseous hydrogen/helium envelope. The core is relatively small, with a mass of only 0.55 Earth masses."
+        ],
+        "properties": ["17.2 HOURS", "84 YEARS", 25362, -195],
+        "resource": "https://en.wikipedia.org/wiki/Uranus"
+      },
+      {
+        "id": 8,
+        "color": "#2d68f0",
+        "pName": "Neptune",
+        "desc": [
+            "Neptune's internal structure resembles that of Uranus. Its atmosphere forms about 5% to 10% of its mass and extends perhaps 10% to 20% of the way towards the core. Increasing concentrations of methane, ammonia and water are found in the lower regions."
+        ],
+        "properties": ["16.08 HOURS", "164.79 YEARS", 24622, -201],
+        "resource": "https://en.wikipedia.org/wiki/Neptune"
+      }
+    ]

@@ -87,6 +87,7 @@ function displayLinks(oldUrl, newUrl){
             const copiedLink = copyParent.innerHTML;
 
            if(copiedLink){
+
             textArea.value = copiedLink;
             document.body.appendChild(textArea);
     
@@ -96,7 +97,6 @@ function displayLinks(oldUrl, newUrl){
            document.execCommand("copy");
     
            textArea.remove();
-           alert('link copied')
             }
         })
     })

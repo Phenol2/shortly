@@ -68,7 +68,7 @@ function displayLinks(oldUrl, newUrl){
        <a href=${newUrl} class="shrt" target = "_blank"> ${newUrl}</a>
        <button class="copy"> copy</button>
     </div> 
-    `;
+    `
 
     link.innerHTML = links;
 

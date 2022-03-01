@@ -70,7 +70,7 @@ function displayLinks(oldUrl, newUrl){
     </div> 
     `;
 
-    link.innerHTML = links
+    link.innerHTML = links;
 
     main.appendChild(link);
 

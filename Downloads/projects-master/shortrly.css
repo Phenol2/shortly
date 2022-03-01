@@ -406,7 +406,7 @@ li a:hover,.facebook:hover{
     margin-top: 50px;
 }
 
-@media (min-width: 677px){
+@media (max-width: 677px){
     header{
         padding: 10px;
     }
